@@ -1,4 +1,5 @@
-<---
+<---                  Contato: 61 9373-9605       Discord: miguelnxxj
+
 
 Olá! 👋 Eu sou o [Miguel Silva Tome]!
 👦 Tenho 12 anos.
