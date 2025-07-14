@@ -46,7 +46,7 @@ Sou um jovem desenvolvedor com foco em criar soluções criativas para web, bots
 - `NxMinas` – Plugin de minas com evolução para Minecraft
 - `MnPunish` – Sistema de punições automáticas com integração web
 - `MnEssentials` – Alternativa completa ao Essentials com funções extras
-- `[migueldevv.netlify.app](migueldevv.netlify.app/)` – Meu portfólio pessoal
+- `migueldevv.netlify.app` – Meu portfólio pessoal
 
 ---
 
